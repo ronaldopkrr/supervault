@@ -1,0 +1,72 @@
+
+Livros Importantes:
+- Mecânica de Automóveis para Leigos
+- Eletroeletrônica Automotiva 
+- Manual de Tecnologia Automotiva
+
+O que é CFT?
+
+- É o órgão que regulamenta e garante livre exercício das atividades profissionais dos técnicos a nível nacional, por meio da lei 5.524/68, lei 13.369/18 e do decreto 90.922/85.
+
+
+ Antes de desmontar cada peça, pare e faça a si mesmo as seguintes perguntas, e caso esteja receoso de se esquecer das respostas, anote-as:
+ - O que é isso?
+ - O que isso faz?
+ - Como ele funciona?
+ - Por que ele foi projetado desse jeito?
+ - Quão bem parafusado ele está (torque)?
+
+Desgaste dos sistemas
+- No sistema de freio a pastilha e o disco são projetados para sofrer desgaste
+
+As falhas dos sistemas
+- No sistema de injeção eletrônica pode ocorrer falhas nos componentes
+
+Manutenção
+- O termo "manutenção" tem origem no vocabulário militar, cujo o sentido era manter as unidades de combate, o efetivo e o material num nível constante.
+- É um conjunto de todas as ações necessárias para que um item seja conservado ou restaurado de modo a poder permanecer de acordo com uma condição especificada
+- Na NRB5462/94 a manutenção é descrita como a combinação de todas as ações técnicas e administrativas, incluindo as de supervisão, destinadas a manter ou recolocar um item em um estado no qual possa desempenhar uma função requerida
+
+Ciclo de vida de um componente
+
+-  Fase de amaciamento -  os defeitos internos do equipamento se manisfestam pelo uso normal e pelo auto-ajuste do sistema. Normalmente estes defeitos estão cobertos pela garantia de fábrica.
+- Vida útil do componente - esta é a fase de pouquíssimas quebras ou paradas, é a fase de maior rendimento do equipamento.
+- Envelhecimento - os componentes vão atingindo o fim da vida útil e passam a apresentar quebras ou paradas, é hora de decidir pela reforma total ou sucateamento
+
+Manutenção Corretiva
+- Ocorre quando não há uma programação de data e hora, ou seja, pode ocorrer a qualquer momento.
+- A falha ou quebra pode ocasionar, parada do veículo, redução na performance, aumento de consumo.
+
+Manutenção Preventiva
+- Consiste no conjunto de procedimentos e ações antecipadas que visam manter a máquina em funcionamento
+- A manutenção preventiva visa a manutenção da performance e conservação do bom funcionamento de todos os subsistemas do veículo.
+
+Manutenção Preditivo
+- Consiste em um tipo de ação preventiva baseada no conhecimento das condições de cada um dos componentes das máquinas e equipamentos
+- Trata-se da manutenção que prediz o tempo de vida útil dos componentes das máquinas e equipamentos, e as condições para que esse tempo de vida seja bem aproveitado 
+- São inspeções com o intuito de trocar componentes que se desgastam ou deterioram antes do prazo fixado pelo fabricante
+- A manutenção preditiva pode ser aplicada com o objetivo de prolongar o uso dos componentes, evitando a substituição precoce e economizando dinheiro
+
+Engenharia de Manutenção 
+- É o nível mais elevado de investimento em manutenção 
+- Consiste em buscar as causas da manutenção já no projeto do equipamento, modificando situações permanentes de mau desempenho. 
+
+Os 5S da manutenção
+- Liberar áreas
+- Evitar desperdícios
+- Melhorar relacionamentos
+- Facilitar as atividades
+- Localização de recursos disponíveis
+
+Qualidade Total
+- Estratégia administrativa que objetiva gerar a consciência da qualidade em todos os processos de uma organização
+
+Torque
+- Unidade do Torque N.m Kgf.m 
+- Torquímetro é uma ferramenta para medir o torque nos apertos. 
+- As tabelas de torque podem ser encontradas em livros, catálogos e manuais. 
+
+Elevadores Automotivos 
+- São equipamentos para elevar os carros do nível do solo, para obter facilidade em diversos reparos
+- Cada carro tem uma posição correta para colocar os braços de sustentação 
+

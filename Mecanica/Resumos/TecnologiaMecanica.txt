@@ -1,0 +1,142 @@
+
+Algumas informações
+
+-  Conhecer alguns materiais, principalmente o aço, utilizados na industria e correlacionar as propriedades dos mesmos com suas aplicações
+- Conhecer os processos de fabricação e suas potencialidades
+-  Os materiais têm influenciado decisivamente o desenvolvimento da humanidade desde o início de sua existência.
+- Há um elo muito forte entre a descoberta de materiais e o desenvolvimento da cultura humana
+- Grandes avanços tecnológicos estão sempre associados a descoberta de materiais
+- Dá origem até 7 mil anos atrás -> materiais naturais (madeira, pedras, ossos, peles etc..)
+- Há cera de 7 mil anos -> iniciou-se o domínio da fabricação de utensílios domésticos com argilas (materiais cerâmicos primitivos)
+- Cerca de 6 a 7 mil anos -> os primeiros utensílios a partir de metais e ligas (arado, carroça, embarcações, espadas, facas)
+- Cobre, prata, chumbo, estanho, ferro, mercúrio, ouro, e algumas ligas, tais como bronze e ligas de chumbo + estanho.
+- Atualmente conhecemos e utilizamos milhares de ligas metálicas distintas. 
+- Tradicionalmente os materiais podem ser classificados em 4 grupos básicos, sendo, cerâmicos, poliméricos, metálicos e compósitos. 
+
+Propriedade dos Materiais
+
+- Atualmente, existe uma infinidade de materiais com diversas características e propriedades, a questão é, como escolher?
+
+Considerar na escolha:
+- condições de trabalho
+- esforços mecânicos
+- custo de produção e matéria prima
+- disponibilidade do material
+
+Conhecer
+- Propriedade dos materiais
+
+Propriedade dos materiais 
+- Físicas (mecânicas, térmicas, elétricas, magnéticas, óticas, acústicas)
+- Químicas (resistência a corrosão, reação química)
+- Tecnologias (usinabilidade, soldabilidade, conformabilidade, temperabilidade, sinterabildiade)
+
+Propriedade dos Materiais - Físicas 
+
+Físicas
+- Resistência Mecânica (forças internas de atração)
+	- Tensão
+	- Resistência á fadiga
+	- Tenacidade
+	- Resiliência
+- Elasticidade
+- Plasticidade
+	- Maleabilidade
+	- Ductibilidade
+- Dureza
+- Fragilidade
+- Densidade
+
+Térmicas
+- Ponto de Fusão
+- Ponto de Ebulição
+- Dilatação Térmica
+- Condutividade Térmica
+- Coeficiente de Dilatação
+
+Elétricas
+- Condutividade
+- Resistividade
+- Rigidez Dielétrica
+
+Magnéticas
+
+Óticas e Acústicas
+
+Químicas
+- Resistência Química -> capacidade do material se manter inerte ou não reativo em atmosferas quimicamente agressivas
+- Resistência á corrosão -> capacidade de resistir á oxidação ou deterioração sob ação da umidade, das intempéries ou condições de trabalho
+
+Tecnológicas
+- Usinabilidade 
+- Conformabilidade
+- Temperabilidade
+- Soldabilidade
+- SInterabilidade
+
+Propriedades Mecânicas
+- Flexão
+- Tração
+- Torção
+- Compressão
+- Cisalhamento
+
+Tenacidade
+- Capacidade do material deformar-se plasticamente e absorver energia antes da ruptura
+
+Resiliência
+- Capacidade do material absorver energia quando deformado elasticamente.
+
+Resistência a Fadiga 
+- Capacidade do material suportar vibrações constantes ou esforços dinâmicos repetitivos sem se partir
+
+Dureza 
+- Capacidade do material de resistir a penetração, deformação, desgaste por atrito ou abrasão
+- MOHS é a dureza relativa entre os materiais 
+- Brinnel (HB) é o esforço necessário para a penetração de uma esfera de tungstênio
+- Rockwell (hr), Vickers: esforço necessário para penetração do diamante 
+
+Elasticidade
+-  Capacidade do material de se deformar quando submetido a
+um esforço e voltar a forma original quando retirado o esforço.
+
+Fragilidade
+- Não é um material plástico
+- Baixa resistência aos choques mecânicos
+- Quebram com o impacto ou esforços deformantes
+45/55
+
+Plasticidade
+- Capacidade do material de se deformar quando submetido a um esforço e manter a deformação (total ou parcial) quando retirado o esforço
+- Maleável x dúctil (Ex: “massinha”)
+- Maleabilidade (capacidade de ser dobrado, martelado, forjado ou prensado)
+- Ductilidade (capacidade de ser estirado ou transformado em fio sem se romper)
+
+Densidade
+- Quantidade de matéria alocada em um volume específico (g/cm3)
+-  Normalmente comparada com a água (~1 g/cm3)
+
+Ponto de fusão
+- Temperatura em que o material passa do estado sólido para o líquido
+- Determina se o material possui maior ou menor resistência à condições de trabalho sob
+temperaturas elevadas.
+
+Capacidade do material de resistir a deterioração por ação da oxidação ou corrosão química
+- Resistência química
+	-   Capacidade de se manter não reativo ou inerte quimicamente, quando colocado em contato com determinados produtos químicos ou quando trabalha sob a ação de atmosferas quimicamente agressivas (Ex: transportar um material ácido/básico)
+- Resistência a corrosão
+	- Capacidade de resistir a oxidação ou deterioração sob ação da umidade, das intempéries ou condições de trabalho (Ex: equipamentos de uma linha de transmissão – aço galvanizado)
+
+Propriedades relacionadas com os processos de fabricação (determinando maior ou menor custo de produção)
+-  Usinabilidade
+	- Facilidade de trabalhar com ferramentas de corte (desgaste / arrancamento de material)
+-  Conformabilidade
+	 -  Capacidade de ser moldado a frio
+- Temperabilidade
+	-  Capacidade de alterar a dureza do material por tratamento térmico ou termoquímico
+- Soldabilidade (≠brasagem)
+	 -  Facilidade de ser unido por solda sem alterar suas propriedades físicas ou químicas
+-  Sinterabilidade
+	- Capacidade de difundir com outros materiais (pó) para formação de um terceiro material
+
+
