@@ -1,0 +1,22 @@
+TecnologiaMecanica
+
+|Propriedade dos materiais|
+
+- Conhecer alguns materiais principalmente o aço
+- Conhecer os processos de fabricação e suas potencialidades
+- Classificação dos materiais em quatro grupos: Cerãmicos, poliméricos, metálicos, compósitos
+- Principais prorpiedades dos materiais.
+- Físicas, mecânicas, térmicas, elétricas, magnéticas, óticas, acústicas
+- Químicas, resistência a corrosão, reação química
+- Tecnológicas, usinabilidade, soldabilidade, conformabilidade, temperabilidade, sinterabilidade.
+- Mecânicas 
+- Resistencia mecânica, tensão, resistência á fadiga, tenacidade, resiliência, elasticidade, plasticidade, maleabilidade, ductibilidade, dureta, fragilidade, densidade.
+- Termicas, ponto de fusão, ponto de ebulição, dilatação térmica, condutividade térmica, coeficiente de dilatação
+- Eletricas, condutividade, resistividade, rigidez dielétrica.
+- Magnéticas
+- Óticas e Acústicas
+- Quimicas, Resistencia quimica, resistencia a corrosão.
+- Tecnologicas, usinabilidade, conformabilidade, temperabilidade, soldabilidade, sinterabilidade.
+
+(pagina 14)
+
