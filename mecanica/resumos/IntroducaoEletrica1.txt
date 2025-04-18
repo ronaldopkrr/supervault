@@ -1,0 +1,70 @@
+
+Eletricidade 
+- É o movimento de elétrons em um condutor
+- A eletricidade pode ser criada de várias formas
+	- Fricção
+	- Calor
+	- Luz
+	- Pressão
+	- Ação química
+	- Magnetismo
+
+Matéria
+ - Tudo aquilo que nos cerca e que ocupa um lugar no espaço
+
+Molécula 
+- É a menor partícula em que se pode dividir uma substância de modo que ela mantenha as mesmas características da substância que a originou
+
+Átomo
+- São partículas infinitamente pequenas que constituem a molécula
+- O Átomo é formado por uma parte central chamada núcleo e uma parte periférica formada pelos elétrons e denominado eletrosfera
+
+Elétrons: Carga negativa
+Pŕotons: Carga positiva
+Nêutrons: Carga neutra
+
+Eletricidade estática
+- É o acumulo de cargas em material qualquer, condutor, semicondutor ou isolante
+
+Eletricidade dinâmica
+- É o fluxo de cargas elétricas que se desloca através de um condutor
+- Para que esse fenômeno ocorra, é necessário, uma fonte de energia, um consumidor e os condutores fechando o circuito
+
+Materiais Elétricos
+- Condutores
+- Isolantes
+- Semicondutores
+
+Isolantes Elétricos
+- São materiais que impedem a passagem de corrente elétrica
+- A mica, o plástico, a borracha a cerâmica são exemplos de isolantes elétricos
+
+Condutores
+- São materiais que permitem a passagem de corrente elétrica, sem nenhuma restrição
+- Todos os metais, geralmente, são bons condutores
+- Os condutores utilizados na indústria, em geral, são constituídos de cobre ou de alumínio.
+- A resistência, maior ou menos, que apresenta um condutor, á passagem das cargas elétricas, depende do:
+	- Comprimento  (L) 
+	- Diâmetro (d)
+	- Material do condutor
+
+Semicondutores
+-  São aqueles que apresentam características de isolante ou de
+condutor, dependendo da forma como se apresenta sua estrutura
+química.
+• Os semicondutores são utilizados na fabricação de dispositivos
+eletrônicos, tais como diodos, LEDs, transistores, etc.
+
+Tensão
+• Tensão é a força que impulsiona o movimento dos elétrons.
+• Essa força ou pressão é denominado de tensão elétrica ou
+diferença de potencial elétrico (ddp).
+• É sempre uma tensão que gerará o movimento dos elétrons.
+
+Representação de tensão -> U ou V
+Unidade de tensão -> V (volt)
+
+• Para valores de tensão muito pequeno se utiliza um
+submúltiplo do volt que é o milivolt (mV).
+• Para valores de tensão muito grande se utiliza o múltiplo do
+volt que é o quilovolt (kV).
